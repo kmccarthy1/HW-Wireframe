@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    background-color: gray;
+  }
+
+  header {
+    width: 75%;
+    background-color: #eee;
+  }
+
+  nav {
+      
+  }
