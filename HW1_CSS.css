@@ -15,7 +15,8 @@
 
   header {
     padding: 30px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
     float: center;
     background-color: #eee;
   }
@@ -23,49 +24,56 @@
   #nav {
     background-color: #eee;
     padding: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
 
   #section {
     float: left;
     margin-top: 20px;
     margin-bottom: 20px;
-    padding-top: 10px;
+    padding-top: 30px;
     background-color: #eee;
-    width: 60%;
-    height: 200px;
+    width: 495px;
+    height: 260px;
   }
 
   #article {
     margin-left: 10px;
     margin-right: 10px;
-    height: 150px;
+    margin-top: 20px;
+    padding-top: 10px;
+    height: 175px;
     color: #ebebeb;
     background: #777;
   }
 
   #h1h2h3 {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding-top: 15px;
+    height: 50px;
     color: #777;
-    background-color: #eee;
+    background-color: #ebebeb;
   }
 
   p {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 50px;
+    padding-top: 15px;
     color: #777;
-    background-color: #eee;
+    background-color: #ebebeb;
   }
 
   aside {
-    float: right;
-    padding-top: 10px;
+    float: left;
+    padding-top: 30px;
     margin-top: 20px;
-    margin-left: -30px;
+    margin-left: 20px;
     background-color: #eee;
-    width: 35%;
-    height: 200px;
+    width:445px;
+    height: 260px;
   }
 
   footer {
